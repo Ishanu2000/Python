@@ -1,0 +1,11 @@
+{
+    "name": "Ishan",
+    "student_id": "CT/2020/007",
+    "grades": [
+        85,
+        90,
+        78
+    ],
+    "average": 84.33333333333333,
+    "passed": true
+}
